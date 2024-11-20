@@ -8,6 +8,7 @@ git add <file name>
 If you want to add every thing in my_project.
 git add .
 
+
 =====================
 git init
 git add .
