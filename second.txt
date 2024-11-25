@@ -6,4 +6,5 @@ git commit -m "add message"
 
 Rajesh is a student.
 Rajesh doing hard work.
+This change is not in master branch
 
